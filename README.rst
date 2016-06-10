@@ -3,6 +3,9 @@ dtim
 
 dtim -- Python DateTime IMprovement
 
+.. image:: https://travis-ci.org/Gnouc/dtim.svg?branch=master
+    :target: https://travis-ci.org/Gnouc/dtim
+
 Installation
 ============
 
