@@ -3,6 +3,8 @@ dtim
 
 dtim -- Python DateTime IMprovement
 
+.. image:: https://badge.fury.io/py/dtim.svg
+    :target: https://badge.fury.io/py/dtim
 .. image:: https://travis-ci.org/Gnouc/dtim.svg?branch=master
     :target: https://travis-ci.org/Gnouc/dtim
 
