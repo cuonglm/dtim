@@ -24,9 +24,14 @@ easily.
 
 dtim comes in for simplification.
 
-*NOTE*
+NOTE
+====
 
-I wrote `dtim` before I know greate [maya](https://github.com/kennethreitz/maya), you should use it, it's great.
+I wrote `dtim` before I know maya_
+
+You should use it, it's great.
+
+.. _maya: https://github.com/kennethreitz/maya
 
 Usage
 =====
