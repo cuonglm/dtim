@@ -21,6 +21,6 @@ setup(
     author='Cuong Manh Le',
     author_email='cuong.manhle.vn@gmail.com',
     license='BSD',
-    url='https://github.com/Gnouc/dtim',
+    url='https://github.com/cuonglm/dtim',
     keywords=['datetime']
 )

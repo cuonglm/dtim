@@ -5,8 +5,8 @@ dtim -- Python DateTime IMprovement
 
 .. image:: https://badge.fury.io/py/dtim.svg
     :target: https://badge.fury.io/py/dtim
-.. image:: https://travis-ci.org/Gnouc/dtim.svg?branch=master
-    :target: https://travis-ci.org/Gnouc/dtim
+.. image:: https://travis-ci.org/cuonglm/dtim.svg?branch=master
+    :target: https://travis-ci.org/cuonglm/dtim
 
 Installation
 ============
@@ -68,4 +68,4 @@ Cuong Manh Le cuong.manhle.vn@gmail.com
 License
 =======
 
-See `LICENSE <https://github.com/Gnouc/dtim/blob/master/LICENSE>`__
+See `LICENSE <https://github.com/cuonglm/dtim/blob/master/LICENSE>`__
